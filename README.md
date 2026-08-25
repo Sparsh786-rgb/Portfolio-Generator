@@ -1,4 +1,5 @@
 # ⚡ NovaFolio AI — AI-Assisted Resume Portfolio Studio
+("https://portfolio-genrater-git-main-abc-5691.vercel.app/")
 
 A college group capstone project for the AIML bootcamp. This application automatically parses a student's resume (TXT or PDF), applies strict JSON schema validation via Google Gemini AI under zero-hallucination guardrails, and generates a modern, responsive developer portfolio website with 3 professional themes and appearance customizations.
 
