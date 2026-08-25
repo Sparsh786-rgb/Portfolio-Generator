@@ -1,0 +1,56 @@
+ALEX R. CHEN
+Full-Stack & AIML Software Engineer
+Email: alex.chen.dev@example.com | Phone: +1 (555) 019-2834
+GitHub: https://github.com/alexchen-dev | LinkedIn: https://linkedin.com/in/alexchen-dev
+Location: San Francisco, CA
+
+PROFESSIONAL SUMMARY
+Passionate Computer Science student and software engineer with hands-on experience in full-stack web development, machine learning pipeline integration, and cloud services. Experienced in designing responsive web applications using Python, JavaScript, and modern AI APIs. Proven track record of delivering collaborative engineering projects and participating in hackathons.
+
+TECHNICAL SKILLS
+- Programming Languages: Python, JavaScript (ES6+), TypeScript, C++, SQL, HTML5, CSS3
+- Frameworks & Libraries: Flask, FastAPI, React, Node.js, Tailwind CSS, Jinja2
+- AI & Data Science: Google Gemini API, PyTorch, Scikit-Learn, Pandas, NumPy
+- Tools & Cloud: Git, GitHub, Docker, Postman, Linux, Vite, Vercel
+
+EDUCATION
+Bachelor of Science in Computer Science & Artificial Intelligence
+University of California, Berkeley
+Expected Graduation: May 2026 | GPA: 3.85 / 4.0
+Relevant Coursework: Data Structures & Algorithms, Machine Learning Systems, Web Architecture, Database Management
+
+EXPERIENCE
+Software Engineering Intern | NextGen Cloud Solutions
+June 2025 – August 2025 | San Francisco, CA
+- Developed RESTful microservices in Python (FastAPI) handling over 50,000 daily telemetry events.
+- Integrated automated caching layer with Redis, reducing average API response latency by 35%.
+- Collaborated in an Agile team of 6 engineers using Git, Jira, and weekly sprint retrospectives.
+
+Undergraduate Research Assistant | Berkeley AI Systems Lab
+January 2025 – May 2025 | Berkeley, CA
+- Implemented structured data extraction pipelines from unstructured research papers using LLM APIs.
+- Evaluated hallucination mitigation techniques and prompt schemas across 500+ academic datasets.
+
+PROJECTS
+1. DevPulse - Developer Productivity & Commit Analytics Dashboard
+- Technologies: Python, Flask, React, Chart.js, GitHub REST API
+- Built an open-source analytics dashboard visualizing code frequency, PR velocity, and test coverage metrics.
+- Implemented OAuth2 authentication and automated webhooks for real-time repository tracking.
+- GitHub: https://github.com/alexchen-dev/devpulse
+- Live Demo: https://devpulse-demo.example.com
+
+2. DocuQuery - Intelligent Multimodal Document Assistant
+- Technologies: Python, Google Gemini API, Streamlit, PyPDF
+- Engineered a document question-answering tool capable of processing PDFs and tabular data.
+- Enforced strict JSON validation to guarantee traceable citations and zero unsupported answers.
+- GitHub: https://github.com/alexchen-dev/docuquery
+
+3. SmartBudget - AI Expense Categorizer & Budget Tracker
+- Technologies: JavaScript, Node.js, Express, SQLite, CSS3
+- Designed a lightweight personal finance web application with automated receipt classification.
+- GitHub: https://github.com/alexchen-dev/smartbudget
+
+ACHIEVEMENTS & AWARDS
+- 1st Place Winner, CalHacks 11.0 (Best AI Developer Tool Category) - October 2025
+- Dean's Honors List (All semesters: Fall 2023 - Spring 2025)
+- Google Cloud Certified: Associate Cloud Engineer - 2025
